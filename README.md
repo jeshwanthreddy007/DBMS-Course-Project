@@ -29,7 +29,7 @@ A MySQL database with a web interface that runs the day to day work of college h
 |------|-------------|
 | Mohammed Amaan Khan | 25WU0101075 |
 | Arslan Alam | 25WU0101016 |
-| Jaswant Reddy | 25WU0101056 |
+| Jeshwanth Reddy | 25WU0101056 |
 
 ## Contents
 
